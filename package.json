@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-verifyreg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin that check and bind user's game-uid when registering",
   "main": "library.js",
   "repository": {
