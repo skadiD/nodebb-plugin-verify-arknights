@@ -26,12 +26,12 @@
     ]
   },
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "skadiD",
+    "email": "postmaster@skadi.icu"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-verifyreg/issues"
+    "url": "https://github.com/skadiD/nodebb-plugin-verifyreg/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
