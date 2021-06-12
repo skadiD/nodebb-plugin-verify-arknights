@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-verifyreg",
+  "name": "nodebb-plugin-verify-arknights",
   "version": "0.0.2",
   "description": "A plugin that check and bind user's game-uid when registering",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skadiD/nodebb-plugin-verifyreg"
+    "url": "https://github.com/skadiD/nodebb-plugin-verify-arknights"
   },
   "keywords": [
     "nodebb",
@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skadiD/nodebb-plugin-verifyreg/issues"
+    "url": "https://github.com/skadiD/nodebb-plugin-verify-arknights/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {

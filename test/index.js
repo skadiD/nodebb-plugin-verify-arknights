@@ -6,7 +6,7 @@ const assert = require('assert');
 
 const db = require.main.require('./test/mocks/databasemock');
 
-describe('nodebb-plugin-verifyreg', function () {
+describe('nodebb-plugin-verify-arknights', function () {
 	it('should pass', function (done) {
 		const actual = 'value';
 		const expected = 'value';

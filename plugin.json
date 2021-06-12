@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-verifyreg",
+	"id": "nodebb-plugin-verify-arknights",
 	"name": "UID bind plugin",
 	"description": "A plugin that check and bind user's game-uid when registering",
-	"url": "https://github.com/skadiD/nodebb-plugin-verifyreg",
+	"url": "https://github.com/skadiD/nodebb-plugin-verify-arknights",
 	"library": "./library.js",
 	"hooks": [
 		{
