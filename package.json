@@ -1,0 +1,52 @@
+{
+  "name": "nodebb-plugin-verifyreg",
+  "version": "0.0.1",
+  "description": "A plugin that check and bind user's game-uid when registering",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skadiD/nodebb-plugin-verifyreg"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "quickstart",
+    "shell"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-verifyreg/issues"
+  },
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.15.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "12.1.4",
+    "@commitlint/config-angular": "12.1.4",
+    "eslint": "7.28.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.23.4",
+    "husky": "6.0.0",
+    "lint-staged": "11.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
